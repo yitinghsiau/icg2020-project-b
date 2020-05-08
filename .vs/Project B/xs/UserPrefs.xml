@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4273915B-5B4C-21D9-93DA-5D9E3B3BA45F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/TowerControl.cs">
+    <Files>
+      <File FileName="Assets/Script/TowerControl.cs" Line="239" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0aeb1ba-e37f-423a-9192-6011078c9d46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
